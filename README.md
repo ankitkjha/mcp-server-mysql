@@ -1,6 +1,7 @@
-# MCP Server
 
-MCP Server to integrate with Weather API and connect to Claude Desktop.
+# MySQL MCP Server
+
+MySQL MCP Server to connect Claude Desktop LLM to the MYSQL Db and Query Database Claude.
 
 ## Getting Started
 
@@ -8,7 +9,7 @@ Follow the steps below to set up the project locally:
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/ankitkjha/mcp-server-mysql.git](https://github.com/ankitkjha/mcp-server-mysql.git)
+git clone <https://github.com/ankitkjha/mcp-server-mysql.git>
 
 cd mcp-server-mysql
 
